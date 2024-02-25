@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Project 1",
+    "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto veritatis enim odit ducimus. Placeat delectus esse ea eos autem tempora.",
+    "Color": "#f9b234"
+  },
+  {
+    "Name": "Project 2",
+    "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto veritatis enim odit ducimus. Placeat delectus esse ea eos autem tempora.",
+    "Color": "#3468C0"
+  },
+  {
+    "Name": "Project 3",
+    "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto veritatis enim odit ducimus. Placeat delectus esse ea eos autem tempora.",
+    "Color": "#31b234"
+  }
+]
